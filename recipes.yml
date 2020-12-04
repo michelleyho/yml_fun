@@ -1,0 +1,68 @@
+---
+"Cinnamon Roll":
+    Cuisine: "American"
+    Meal: 
+        - breakfast
+    Ingredients:
+        Dry:
+            - flour
+            - sugar
+            - yeast
+            - cinnamon
+        Wet:
+            - milk
+            - eggs
+    Rating: 9
+    Gluten Free: False
+    Low Carb: False
+    Holiday: False
+
+"Musubi":
+    Cuisine: "Hawaiian"
+    Meal: 
+        - snack
+    Ingredients:
+        Dry:
+            - SPAM
+            - rice
+            - seaweed
+        Wet:
+            - dark soy sauce
+    Rating: 6
+    Gluten Free: True
+    Low Carb: False
+    Holiday: False
+
+"Shanghai Rice Cake":
+    Cuisine: "Chinese"
+    Meal: 
+        - Lunch
+        - Dinner
+    Ingredients:
+        Dry:
+            - rice cake
+        Wet:
+            - dark soy sauce
+            - veggies
+            - meat
+    Rating: 9
+    Gluten Free: True
+    Low Carb: False
+    Holiday: False
+
+"Paella":
+    Cuisine: "Spanish"
+    Meal: 
+        - Lunch
+        - Dinner
+    Ingredients:
+        Dry:
+            - rice
+            - saffron
+        Wet:
+            - broth
+            - seafood
+    Rating: 7
+    Gluten Free: True
+    Low Carb: False
+    Holiday: False
